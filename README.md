@@ -1,2 +1,3 @@
 # hello-world
-hello world test repository
+hello world test repositor
+Dette er en test. 
